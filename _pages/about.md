@@ -9,9 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-   <p>555 your office number</p>
-   <p>123 your address street</p>
-   <p>Your City, State 12345</p>
+   <p>Cinvestav Unidad Tamaulipas</p>
+   <p>Phone: (+52) 834 107 0240</p>
+   <p>Fax: (+52) 834 107 0220</p>
+#<p>Km. 5.5 carretera Victoria - Soto La Marina</p>
+#<p>CP 87130 Victoria, Tamps., Mexico</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
