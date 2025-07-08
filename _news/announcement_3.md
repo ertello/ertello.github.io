@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our ICCS conference paper is now published. :fr:
+Our ROADEF conference paper is now published. :fr:
