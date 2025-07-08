@@ -1,34 +1,26 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"hao":
+  - firstname: ["Jin Kao", "J.K.", "J. K."]
+    url: https://leria-info.univ-angers.fr/~jinkao.hao/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"duarte":
+  - firstname: ["Abraham", "A."]
+    url: https://grafo.etsii.urjc.es/en/author/abraham-duarte/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"pardo":
+  - firstname: ["Eduardo", "E. G."]
+    url: https://grafo.etsii.urjc.es/en/author/eduardo-garcia-pardo/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"cavero":
+  - firstname: ["Sergio", "S."]
+    url: https://grafo.etsii.urjc.es/en/author/sergio-cavero/
+
+"lozano":
+  - firstname: ["Manuel", "M."]
+    url: https://produccioncientifica.ugr.es/investigadores/355762/detalle
 
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"ren":
+  - firstname: ["Jintong", "J."]
+    url: https://ren-jintong.github.io/

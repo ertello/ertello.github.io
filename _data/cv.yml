@@ -2,31 +2,35 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Eduardo Rodriguez-Tello
+    # - name: Date of Birth
+    #   value: 14th March 1879
+    # - name: Languages
+    #   value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computer Science
+      institution: University of Angers, France
+      year: 2007
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Thesis: New evaluation functions for the BMP and MinLA graph labeling problems.
+        - Graduated with Honors (Mention Très Honorable)
+
+    - title: Master in Computer Science
+      institution: Tecnológico de Monterrey, Cuernavaca, Mexico
+      year: 1999
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis: Genetic optimization of SAT problems
+        - Graduated with Honors (GPA of 97.5 on a 100 scale)
+
+    - title: Bachelor in Computer Science
+      institution: Tecnológico de Monterrey, Cuernavaca, Mexico
+      year: 1996
+      description:
+        - Mayor in Management Information Systems
+        - Graduated with Honors (GPA of 93.0 on a 100 scale)
 
 - title: Experience
   type: time_table
