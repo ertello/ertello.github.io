@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-iccs-conference-paper-is-now-published-fr",
-          title: 'Our ICCS conference paper is now published. :fr:',
+            },},{id: "news-our-roadef-conference-paper-is-now-published-fr",
+          title: 'Our ROADEF conference paper is now published. :fr:',
           description: "",
           section: "News",},{id: "news-paper-published-in-the-journal-mathematics-jcr-if-2-2-q1",
           title: 'Paper published in the journal Mathematics (JCR IF 2.2, Q1)',
