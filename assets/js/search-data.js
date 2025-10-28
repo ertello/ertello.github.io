@@ -41,7 +41,12 @@ ninja.data = [{
             },},{id: "news-our-iccs-conference-paper-is-now-published-singapore",
           title: 'Our ICCS conference paper is now published. :singapore:',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-paper-published-in-the-journal-physica-scripta-jcr-if-2-6-q2",
+          title: 'Paper published in the journal Physica Scripta (JCR IF 2.6, Q2)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
