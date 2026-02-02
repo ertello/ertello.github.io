@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our QAI conference paper is now published. :italy:
+Our QAI conference paper is now published. :it:
