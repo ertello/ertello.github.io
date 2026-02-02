@@ -35,8 +35,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
-            },},{id: "news-our-qai-conference-paper-is-now-published-italy",
-          title: 'Our QAI conference paper is now published. :italy:',
+            },},{id: "news-our-qai-conference-paper-is-now-published-it",
+          title: 'Our QAI conference paper is now published. :it:',
           description: "",
           section: "News",},{id: "news-paper-published-in-the-journal-mathematics-jcr-if-2-3-q1",
           title: 'Paper published in the journal Mathematics (JCR IF 2.3, Q1)',
