@@ -30,22 +30,24 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-our-roadef-conference-paper-is-now-published-fr",
-          title: 'Our ROADEF conference paper is now published. :fr:',
-          description: "",
-          section: "News",},{id: "news-paper-published-in-the-journal-mathematics-jcr-if-2-2-q1",
-          title: 'Paper published in the journal Mathematics (JCR IF 2.2, Q1)',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-iccs-conference-paper-is-now-published-singapore",
-          title: 'Our ICCS conference paper is now published. :singapore:',
-          description: "",
-          section: "News",},{id: "news-paper-published-in-the-journal-physica-scripta-jcr-if-2-6-q2",
+        },{id: "news-paper-published-in-the-journal-physica-scripta-jcr-if-2-6-q2",
           title: 'Paper published in the journal Physica Scripta (JCR IF 2.6, Q2)',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
+            },},{id: "news-our-qai-conference-paper-is-now-published-italy",
+          title: 'Our QAI conference paper is now published. :italy:',
+          description: "",
+          section: "News",},{id: "news-paper-published-in-the-journal-mathematics-jcr-if-2-3-q1",
+          title: 'Paper published in the journal Mathematics (JCR IF 2.3, Q1)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-paper-published-in-the-journal-biomimetics-jcr-if-3-9-q1",
+          title: 'Paper published in the journal Biomimetics (JCR IF 3.9, Q1)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
             },},{
         id: 'social-email',
         title: 'email',
