@@ -4,7 +4,6 @@
     "label": "Professor",
     "image": "",
     "phone": "(+52) 834 107 0240",
-    "url": "https://ertello.github.io/",
     "location": {
       "address": "Km. 5.5 carretera Victoria - Soto La Marina",
       "postalCode": "87130",
@@ -66,10 +65,10 @@
   ],
   "awards": [
     {
-      "title": "Member of the National System of Researchers (SNI)",
+      "title": "Member of the National System of Researchers (SNII)",
       "date": "2023-01-01",
-      "awarder": "Conacyt",
-      "url": "https://secihti.mx/sistema-nacional-de-investigadores/",
+      "awarder": "Secihti",
+      "url": "https://secihti.mx/snii/",
       "summary": "Level II: 2019-2022, 2023-2027"
     }
   ]
