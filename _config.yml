@@ -184,17 +184,23 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
   - vendor
   - _pages/blog.md
+  - _pages/about_einstein.md
+  - _pages/books.md
+  - _pages/repositories.md
+  - _pages/projects.md
+  - _pages/profiles.md
   - _posts/
   - _projects/?_project.md
   - assets/jupyter/blog.ipynb
-  - _pages/books.md
+  - assets/plotly/demo.html
+  - assets/html/relativity.html
   - _books/the_godfather.md
+
 keep_files:
   - CNAME
   - .nojekyll
@@ -296,7 +302,7 @@ scholar:
 enable_publication_badges:
   altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
   dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
-  google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
+  google_scholar: false # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
   inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
