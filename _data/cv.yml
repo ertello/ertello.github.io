@@ -3,6 +3,11 @@
   contents:
     - name: Full Name
       value: Eduardo Rodriguez-Tello
+    - name: Phone
+      value: (+52) 834 107 0240
+    - name: Address
+      value: Km. 5.5 carretera Victoria - Soto La Marina, 87130 Ciudad Victoria, Tamaulipas, Mexico
+
     # - name: Date of Birth
     #   value: 14th March 1879
     # - name: Languages
@@ -64,18 +69,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023-2027
+    - year: 2019 - 2022, 2023 - 2027
       items:
-        - SNII Level II
+        - Member of the National System of Researchers, SNII Level II
 
-    - year: 2019 - 2022
+    - year: 2016 - 2018, 2012 - 2013, 2009 - 2011
       items:
-        - SNII Level II
-
-    - year: 2016 - 2018
-      items:
-        - SNII Level I
-
-    - year: 2016 - 2018
-      items:
-        - SNII Level I
+        - Member of the National System of Researchers, SNII Level I
