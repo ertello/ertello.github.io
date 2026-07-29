@@ -69,10 +69,16 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2019 - 2022, 2023 - 2027
+    - year: 2023 - 2027
       items:
         - Member of the National System of Researchers, SNII Level II
 
-    - year: 2016 - 2018, 2012 - 2013, 2009 - 2011
+    - year: 2019 - 2022
+      items:
+        - Member of the National System of Researchers, SNII Level II
+
+    - year: 2016 - 2018
       items:
         - Member of the National System of Researchers, SNII Level I
+
+    
