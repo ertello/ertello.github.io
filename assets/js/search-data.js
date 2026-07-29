@@ -53,6 +53,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
+            },},{id: "news-paper-published-in-the-european-journal-of-operational-research-jcr-if-7-0-q1",
+          title: 'Paper published in the European Journal of Operational Research (JCR IF 7.0, Q1)...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_6/";
             },},{
         id: 'social-email',
         title: 'email',
