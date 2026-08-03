@@ -58,6 +58,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6/";
+            },},{id: "news-paper-published-in-the-journal-computers-amp-operations-research-jcr-if-4-6-q1",
+          title: 'Paper published in the journal Computers &amp;amp; Operations Research (JCR IF 4.6, Q1)...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_7/";
             },},{
         id: 'social-email',
         title: 'email',
