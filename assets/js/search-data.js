@@ -63,6 +63,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_7/";
+            },},{id: "news-paper-published-in-the-journal-biomimetics-jcr-if-3-9-q1",
+          title: 'Paper published in the journal Biomimetics (JCR IF 3.9, Q1)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_8/";
             },},{
         id: 'social-email',
         title: 'email',
