@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ertello.github.io/sitemap.xml
