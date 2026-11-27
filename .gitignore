@@ -15,7 +15,22 @@ node_modules/
 output/playwright/
 test-results/
 vendor
+Gemfile.lock
+removedFiles/
+*.code-workspace
 
 # Python bytecode from bin/ helper scripts
 __pycache__/
 *.pyc
+
+
+
+
+
+
+
+
+
+
+
+
