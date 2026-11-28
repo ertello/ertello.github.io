@@ -1,84 +1,109 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Eduardo Rodriguez-Tello
-    - name: Phone
-      value: (+52) 834 107 0240
-    - name: Address
-      value: Km. 5.5 carretera Victoria - Soto La Marina, 87130 Ciudad Victoria, Tamaulipas, Mexico
+cv:
+  name: Eduardo Rodriguez-Tello
+  label: Professor
+  email: ertello@cinvestav.mx
+  location: Cinvestav Unidad Tamaulipas
+  image: ""
+  summary: 
 
-    # - name: Date of Birth
-    #   value: 14th March 1879
-    # - name: Languages
-    #   value: English, German
+  social_networks:
+    - network: X
+      username: EduardoRTello
+    - network: LinkedIn
+      username: EduardoRTello
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Computer Science
-      institution: University of Angers, France
-      year: 2003 - 2007
-      description:
-        - <em>Thesis:</em> New evaluation functions for the BMP and MinLA graph labeling problems.
-        - Graduated with Honors (Mention Très Honorable)
+  address:
+    street: Km. 5.5 carretera Victoria - Soto La Marina
+    city: Ciudad Victoria
+    region: Tamaulipas
+    postalCode: 87130
+    countryCode: MX
 
-    - title: Master in Computer Science
-      institution: Tecnológico de Monterrey, Cuernavaca, Mexico
-      year: 1997 - 1999
-      description:
-        - <em>Thesis:</em> Genetic optimization of SAT problems
-        - Graduated with Honors (GPA of 97.5 on a 100 scale)
+  sections:
+    Education:
+      - institution: University of Angers
+        location: Angers, France
+        url: https://www.univ-angers.fr/
+        area: Computer Science
+        studyType: PhD
+        start_date: 2003
+        end_date: 2007
+        score: ""
+        courses: ""
+        highlights:
+          - <em>Thesis:</em> New evaluation functions for the BMP and MinLA graph labeling problems.
+          - Graduated with Honors (Mention Très Honorable)
 
-    - title: Bachelor in Computer Science
-      institution: Tecnológico de Monterrey, Cuernavaca, Mexico
-      year: 1992 - 1996
-      description:
-        - Mayor in Management Information Systems
-        - Graduated with Honors (GPA of 93.0 on a 100 scale)
+      - institution: Tecnológico de Monterrey, 
+        location: Cuernavaca, Mexico
+        area: Computer Science
+        studyType: MSc
+        start_date: 1997
+        end_date: 1999
+        highlights:
+          - <em>Thesis:</em> Genetic optimization of SAT problems
+          - Graduated with Honors (GPA of 97.5 on a 100 scale)
+      
+      - institution: Tecnológico de Monterrey, 
+        location: Cuernavaca, Mexico
+        area: Computer Science
+        studyType: BSc
+        start_date: 1996
+        end_date: 1992
+        highlights:
+          - Mayor in Management Information Systems
+          - Graduated with Honors (GPA of 93.0 on a 100 scale)
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Computer Science
-      institution: Cinvestav Unidad Tamaulipas
-      year: 2008 - present
+    Experience:
+      - company: Cinvestav Unidad Tamaulipas
+        position: Professor of Computer Science
+        location: Victoria, Tamaulipas
+        start_date: 2008
+        end_date: to present
 
-    - title: Lecturer
-      institution: Tecnológico de Monterrey, Campus Guadalajara
-      year: 2019 - 2020
+      - company: Tecnológico de Monterrey
+        position: Visiting Professor
+        location: Guadalajara, Jalisco
+        start_date: 2019
+        end_date: 2020
 
-    - title: Assistant Professor
-      institution: Universidad Politécnica de Morelos
-      year: 2007 - 2008
+      - company: Universidad Politécnica de Morelos
+        position: Assistant Professor
+        location: Cuernavaca, Morelos
+        start_date: 2007
+        end_date: 2008
 
-    - title: Lecturer
-      institution: Tecnológico de Monterrey, Campus Cuernavaca
-      year: 2002 - 2003
+      - company: Tecnológico de Monterrey
+        position: Lecturer
+        location: Cuernavaca, Morelos
+        start_date: 2002
+        end_date: 2003
 
-    - title: Project Leader
-      institution: Dextra Technologies, Monterrey, Mexico
-      year: 2000 - 2001
-      description:
+      - company: Dextra Technologies
+        position: Proyect Leader
+        location: Monterrey, Nuevo León
+        start_date: 2000
+        end_date: 2001
 
-    - title: Lecturer
-      institution: Tecnológico de Monterrey, Campus Cuernavaca
-      year: 1998 - 2000
+      - company: Tecnológico de Monterrey
+        position: Lecturer
+        location: Cuernavaca, Morelos
+        start_date: 1998
+        end_date: 2000
 
+    Awards:
+      - title: Member of the National System of Researchers, SNII Level II
+        date: 2023 - 2027
+        awarder: National System of Researchers (SECIHTI)
+        url: https://secihti.mx/snii/
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2023 - 2027
-      items:
-        - Member of the National System of Researchers, SNII Level II
+      - title: Member of the National System of Researchers, SNII Level II
+        date: 2019 - 2022
+        awarder: National System of Researchers (SECIHTI)
+        url: https://secihti.mx/snii/
 
-    - year: 2019 - 2022
-      items:
-        - Member of the National System of Researchers, SNII Level II
+      - title: Member of the National System of Researchers, SNII Level I
+        date: 2016 - 2018
+        awarder: National System of Researchers (SECIHTI)
+        url: https://secihti.mx/snii/
 
-    - year: 2016 - 2018
-      items:
-        - Member of the National System of Researchers, SNII Level I
-
-    
