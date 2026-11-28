@@ -1,5 +1,6 @@
 ---
 layout: cv
+cv_format: rendercv # options: rendercv or jsonresume
 permalink: /cv/
 title: cv
 nav: true
