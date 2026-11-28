@@ -1,21 +1,14 @@
 cv:
   name: Eduardo Rodriguez-Tello
-  label: Scientist
+  headline: Research Scientist
   email: ertello@cinvestav.mx
-  location: Cinvestav Unidad Tamaulipas
+  location: Cinvestav, Unidad Tamaulipas
 
   social_networks:
     - network: X
       username: EduardoRTello
     - network: LinkedIn
       username: EduardoRTello
-
-  address:
-    street: Km. 5.5 carretera Victoria - Soto La Marina
-    city: Ciudad Victoria
-    region: Tamaulipas
-    postalCode: 87130
-    countryCode: MX
 
   sections:
     Education:
