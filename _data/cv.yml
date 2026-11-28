@@ -1,10 +1,8 @@
 cv:
   name: Eduardo Rodriguez-Tello
-  label: Professor
+  label: Scientist
   email: ertello@cinvestav.mx
   location: Cinvestav Unidad Tamaulipas
-  image: ""
-  summary: 
 
   social_networks:
     - network: X
@@ -48,8 +46,8 @@ cv:
         location: Cuernavaca, Mexico
         area: Computer Science
         studyType: BSc
-        start_date: 1996
-        end_date: 1992
+        start_date: 1992
+        end_date: 1996
         highlights:
           - Mayor in Management Information Systems
           - Graduated with Honors (GPA of 93.0 on a 100 scale)
@@ -59,7 +57,7 @@ cv:
         position: Professor of Computer Science
         location: Victoria, Tamaulipas
         start_date: 2008
-        end_date: to present
+        end_date: present
 
       - company: Tecnológico de Monterrey
         position: Visiting Professor
@@ -93,16 +91,22 @@ cv:
 
     Awards:
       - title: Member of the National System of Researchers, SNII Level II
+        authors:
+            - "National System of Researchers (SECIHTI)"
         date: 2023 - 2027
         awarder: National System of Researchers (SECIHTI)
         url: https://secihti.mx/snii/
 
       - title: Member of the National System of Researchers, SNII Level II
+        authors:
+              - "National System of Researchers (SECIHTI)"
         date: 2019 - 2022
         awarder: National System of Researchers (SECIHTI)
         url: https://secihti.mx/snii/
 
       - title: Member of the National System of Researchers, SNII Level I
+        authors:
+            - "National System of Researchers (SECIHTI)"
         date: 2016 - 2018
         awarder: National System of Researchers (SECIHTI)
         url: https://secihti.mx/snii/
